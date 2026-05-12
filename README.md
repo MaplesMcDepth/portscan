@@ -1,5 +1,10 @@
 # portscan
 
+![CI](https://github.com/MaplesMcDepth/portscan/actions/workflows/ci.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Go Version](https://img.shields.io/badge/Go-1.23+-00ADD8?logo=go)
+
+
 Fast TCP port scanner — know what's listening.
 
 ## Install
